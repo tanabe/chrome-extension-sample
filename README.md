@@ -1,3 +1,3 @@
 # Chrome Extension Sample
 
-This is repository of  [Chrome extension sample](https://developer.chrome.com/extensions/getstarted).
+This is a sample project of [Chrome extension tutorial](https://developer.chrome.com/extensions/getstarted).
